@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e2OZCnpSlLXrB92RSMaPfD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Rectangle-3",
+      "rect": [
+        0,
+        0,
+        132,
+        63
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        133,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
