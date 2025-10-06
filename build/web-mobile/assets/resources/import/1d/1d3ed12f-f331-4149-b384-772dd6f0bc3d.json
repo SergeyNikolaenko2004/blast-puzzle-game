@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ffSpvnb2pHf4BTuOf7UU0a"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Rectangle-7",
+      "rect": [
+        0,
+        1,
+        736,
+        116
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        736,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
