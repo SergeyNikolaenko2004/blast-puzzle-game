@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e9cgONSPVBxLe6joZdBG3J"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "slot_frame_moves",
+      "rect": [
+        0,
+        0,
+        128,
+        208
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        128,
+        209
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
